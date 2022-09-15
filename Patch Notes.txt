@@ -1,0 +1,2 @@
+- scanning both betfair and smarkets
+- starting to compare the games
